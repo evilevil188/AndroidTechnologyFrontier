@@ -1,0 +1,1 @@
+flowMvp framework是解決fragment生命周期太複雜不易調試的問題。
